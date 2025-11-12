@@ -1,0 +1,12 @@
+
+
+Hello dear Primo team! due to the conspicous desire for an AI enable analyst in the position,
+I built an engine using python + AI to help me process information at a much more rapid pace. 
+    1. Recieves a main objective and sub objectvies that are stepified to complete the objective.
+    2. based on that, a Investment-analytics context engineered layer will reason and provide 20 useful links for each sub objective
+    3. then the next layer, another Investment-analytics context engineered layer will scrape information from all of these links with a confidence score and the only relevant part of the text.
+
+As an analyst with this engine, i managed to do the analysis on a much larger amount of information but fast and make more relevant decisions.
+The magic that would not be possible wihtout the engine : I can just read very fast the piece of relevant text with the assigned confidence score to see if the information is relevant to what i desire, if so then and only then use the resource in the presentation.
+
+
